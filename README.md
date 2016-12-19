@@ -1,5 +1,5 @@
 # README #
-
+This repo contains source code for our Computer Science Assignment Project name "User maintenance system".
 The purpose of this project is to create a **user maintenance system** that allows a user to sign up, create a profile, activity details and login in to the system. The users will have their own interface where users will be able to create RNA group using the databases. The users will be able to edit their profile. Administrator will have access to all the user profiles and will be able to edit their profiles as requested by the users.
 
 ### Project CSCI440 - User Maintenance System ###
@@ -41,4 +41,4 @@ The purpose of this project is to create a **user maintenance system** that allo
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Lok B. Tamang, Nirajan Kadel, Roshan Thapa, Sai S Erravalli
+* Madan Tamang, Lok B. Tamang, Nirajan Kadel, Roshan Thapa, Sai S Erravalli
